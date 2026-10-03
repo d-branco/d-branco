@@ -5,7 +5,7 @@
 █▄   ██   ████  ██    █  ██     ▄█▀ ██   ██  ██  ██      ██   ██ 
 ▀█▄▄▀██▄        ▀█▄▄▄▀  ▄██▄    ▀█▄▄▀█▀ ▄██▄ ██▄  ▀█▄▄▄▀  ▀█▄▄█▀
 ```
-<img src="img/cross21.png" height="96" alt="A pixelated blue saltire" align="left" style="margin-right: 10px;" />
+<img src="img/saltire.png" height="96" alt="A pixelated blue saltire" align="left" style="margin-right: 10px;" />
 <p>
 Hi, <br>
 I'm a software developer with a focus on C and C++ programming languages.<br>
